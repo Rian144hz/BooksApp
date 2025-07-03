@@ -24,19 +24,19 @@ Este é um aplicativo Android desenvolvido em Kotlin, utilizando a arquitetura M
 ## Prints do aplicativo
 
 🏠 Tela Inicial  
-<img src="prints/intro.png" width="250"/>
+<img src="prints/intro.png.png" width="250"/>
 
 ⭐ Favoritos (Nenhum Encontrado)  
-<img src="prints/favorites.png" width="250"/>
+<img src="prints/favorites.png.png" width="250"/>
 
 ✅ Favoritos Encontrados  
-<img src="prints/favorites.foud.png" width="250"/>
+<img src="prints/favorites.foud.png.png" width="250"/>
 
 📖 Tela de Detalhes  
-<img src="prints/book.png" width="250"/>
+<img src="prints/book.png.png" width="250"/>
 
 🗑️ Confirmação de Exclusão  
-<img src="prints/delete.png" width="250"/>
+<img src="prints/delete.png.png" width="250"/>
 
 ---
 
