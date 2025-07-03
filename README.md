@@ -52,7 +52,7 @@ Este é um aplicativo Android desenvolvido em Kotlin, utilizando a arquitetura M
 
 Matheus Rian Souza  
 [Meu GitHub](https://github.com/Rian144hz)  
-[Meu LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
+[Meu LinkedIn](https://www.linkedin.com/in/matheussouza7/)  
 
 ---
 
