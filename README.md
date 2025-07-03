@@ -1,46 +1,59 @@
 # 📚 BooksApp
 
-Um aplicativo Android desenvolvido em Kotlin com arquitetura MVVM, criado como parte da minha jornada de aprendizado. O objetivo é listar livros, marcar favoritos, ver detalhes e até remover livros da lista.
+Este é um aplicativo Android desenvolvido em Kotlin, utilizando a arquitetura MVVM, que permite gerenciar uma coleção de livros, marcar favoritos e visualizar detalhes dos livros. O app conta com navegação entre telas, lista de livros, favoritos e detalhes de cada livro.
 
-📸 Prints do aplicativo
-🏠 Tela Inicial
+## Funcionalidades
+
+- Listar todos os livros disponíveis  
+- Marcar e desmarcar livros como favoritos  
+- Visualizar detalhes completos de cada livro  
+- Remover livros da lista  
+- Exibir lista separada apenas com os livros favoritos  
+- Navegação intuitiva via Bottom Navigation  
+
+## Tecnologias utilizadas
+
+- Kotlin  
+- Android Jetpack (ViewModel, LiveData, Navigation)  
+- RecyclerView  
+- MVVM (Model-View-ViewModel)  
+- Git para controle de versão  
+
+---
+
+## Prints do aplicativo
+
+🏠 Tela Inicial  
 <img src="prints/intro.png" width="250"/>
-⭐ Favoritos (Nenhum Encontrado)
+
+⭐ Favoritos (Nenhum Encontrado)  
 <img src="prints/favorites.png" width="250"/>
-✅ Favoritos Encontrados
+
+✅ Favoritos Encontrados  
 <img src="prints/favorites.foud.png" width="250"/>
-📖 Tela de Detalhes
+
+📖 Tela de Detalhes  
 <img src="prints/book.png" width="250"/>
-🗑️ Confirmação de Exclusão
+
+🗑️ Confirmação de Exclusão  
 <img src="prints/delete.png" width="250"/>
 
-## ✨ Funcionalidades
+---
 
-- ✅ Listagem de livros com título, autor e gênero  
-- ❤️ Marcar e desmarcar livros como favoritos  
-- ⭐ Visualizar apenas os livros favoritos  
-- 📝 Tela de detalhes com informações da obra  
-- 🗑️ Remoção de livros com confirmação  
-- 🔁 Dados gerenciados localmente via Repository  
+## Como executar
 
-## 🛠️ Tecnologias utilizadas
+1. Clone este repositório  
+2. Abra no Android Studio  
+3. Compile e rode no emulador ou dispositivo físico Android  
 
-- Kotlin 💻  
-- Android (View Binding + XML Layouts)  
-- MVVM (Model - View - ViewModel)  
-- LiveData 📡  
-- Navigation Component 🔀  
-- RecyclerView com Adapter e ViewHolder  
-- Design moderno com categorias visuais por gênero  
+---
 
-## 🗂️ Estrutura do projeto
+## Contato
 
-```bash
-📁 app/
-├── ui/                # Fragments e MainActivity
-├── ViewModels/        # ViewModels (Home, Favorite, Details)
-├── repository/        # BookRepository (simula banco de dados)
-├── entity/            # BookEntity.kt
-├── ui/adapter/        # Adapter do RecyclerView
-├── ui/viewholder/     # ViewHolder personalizado
-├── helper/            # Constantes globais
+Matheus Rian Souza  
+[Meu GitHub](https://github.com/Rian144hz)  
+[Meu LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
+
+---
+
+Desenvolvido com dedicação e foco na aprendizagem do desenvolvimento Android. 🚀
