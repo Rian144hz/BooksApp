@@ -32,3 +32,15 @@ Um aplicativo Android desenvolvido em Kotlin com arquitetura MVVM, criado como p
 ├── ui/adapter/        # Adapter do RecyclerView
 ├── ui/viewholder/     # ViewHolder personalizado
 ├── helper/            # Constantes globais
+
+📸 Prints do aplicativo
+🏠 Tela Inicial
+<img src="prints/intro.png" width="250"/>
+⭐ Favoritos (Nenhum Encontrado)
+<img src="prints/favorites.png" width="250"/>
+✅ Favoritos Encontrados
+<img src="prints/favorites.foud.png" width="250"/>
+📖 Tela de Detalhes
+<img src="prints/book.png" width="250"/>
+🗑️ Confirmação de Exclusão
+<img src="prints/delete.png" width="250"/>
