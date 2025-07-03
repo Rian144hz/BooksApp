@@ -26,17 +26,18 @@ Este é um aplicativo Android desenvolvido em Kotlin, utilizando a arquitetura M
 🏠 Tela Inicial  
 <img src="intro.png" width="250"/>
 
-⭐ Favoritos (Nenhum Encontrado)
-<img src="favorites.foud.png" width="250"/>
-
 ✅ Favoritos Encontrados  
 <img src="favorites.png" width="250"/>
+
+⭐ Favoritos (Nenhum Encontrado)  
+<img src="favorites.foud.png" width="250"/>
 
 📖 Tela de Detalhes  
 <img src="book.png" width="250"/>
 
 🗑️ Confirmação de Exclusão  
 <img src="delete.png" width="250"/>
+
 
 
 ---
